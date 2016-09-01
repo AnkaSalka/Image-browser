@@ -7,7 +7,7 @@ To run im_browser_config.py you might to install:
     Tkinter,
     PIL and ImageTk (it is available here http://pythonware.com/products/pil/),
     swampy (it is available here thinkpython.com/swampy).
- Or you may download image browser.rar and run file "image browser/dist/im_browser_config.py"
+ Or you may download image browser.rar and run file "image browser/dist/im_browser_config.exe"
  
   Application descriptions:
   
